@@ -15,7 +15,7 @@ Before reading this chapter, you should have already installed your :ref:`Fronte
 
 This Chapter is structured as follows:
 
-  - The :ref:`Virtual MAchine Template <vm_guide>` Section shows how to define VM
+  - The :ref:`Virtual Machine Template <vm_guide>` Section shows how to define VM
   - Then you can create :ref:`VM instances <vm_instances>` out of the VM Template definition.
   - Specific procedures to :ref:`backup your VMs <vm_backup>` are explained in a dedicated Section.
   - How to :ref:`run VMs out of container images <container_image_usage>` is also addressed in this Chapter.
